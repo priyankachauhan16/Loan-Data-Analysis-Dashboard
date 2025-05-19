@@ -51,3 +51,6 @@ Integrate Power Query for automated data cleaning
 Use Python or Power BI for scalable and dynamic dashboards
 Add machine learning models to predict loan defaults
 
+## 📊 Project Screenshot
+Screenshot (49).png
+
